@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @remiabduls
 - 👀 I’m interested in front end designs 
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on front end with html and css
+- 🌱 I’m currently learning javascript and solidity
+- 💞️ I’m looking to collaborate on web3 front end 
 - 📫 How to reach me (remiabduls@gmail.com)
 
 <!---
